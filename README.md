@@ -1,6 +1,6 @@
 # TravelWebApplication
 This project is to develop a travel planner system, which describes about the climatic conditions, interesting places to visit, top hotels in the area and some additional features like travel reminders depending on the user’s destination. We have used Angular JS, HTML 5 for front end and Spring boot, MySQL for backend.
-
+ ![photo_2021-11-03_10-06-13](https://user-images.githubusercontent.com/87467212/140010556-4e90517f-49cd-4a8a-8f7b-5ad422863059.jpg)
 
 Installation Guide:
 
@@ -14,7 +14,8 @@ Installation Guide:
 
 ******* SET UP INSTRUCTION **********
 
-1. Open MySql Server 
+1. Open MySql Server
+
    Run the script file as "Open Sql Script"
 
 2. Open Spring STS
